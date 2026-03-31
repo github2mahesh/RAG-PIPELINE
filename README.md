@@ -11,4 +11,4 @@ This project implements a local Retrieval Augmented Generation (RAG) pipeline us
 PDF → Chunk → Embeddings → Chroma → Retrieval → Mistral → Answer
 
 ## Run
-python rag_app.py
+python main.py
